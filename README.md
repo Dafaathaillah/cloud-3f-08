@@ -12,9 +12,9 @@
 
 |  |  |
 |--|--|
-| NIM | **contoh 123** |
-| Nama Lengkap | **contoh nama abc** |
-| Kelas | TI-3x |
+| NIM | **1941720170** |
+| Nama Lengkap | **Dafa Bintang Athaillah** |
+| Kelas | TI-3F |
 
 
 ## Struktur Folder
