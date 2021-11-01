@@ -41,7 +41,8 @@ lakukan update codingan untuk mengganti href css menjadi pasth url pada bucket, 
 lalu jalankan project dengan menggunakan ip public:
 ![Screenshot UTS](img/21.png)
 ![Screenshot UTS](img/24.png)
-
+![Screenshot UTS](img/25.png)
+![Screenshot UTS](img/26.png)
 ---
 
 # UTS COMPLETE | Terimakasih 
