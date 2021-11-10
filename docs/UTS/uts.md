@@ -1,16 +1,5 @@
-# 08 - OBJECT STORAGE (OS)
+# 09 - UTS CLOUD COMPUTING
 
-## Tujuan Pembelajaran
-
-1. Mengetahui Object Storage yang ditawarkan Oracle Cloud Infrastructure (OCI)
-2. Dapat memanfaatkan layanan Object Storage yang ditawarkan Oracle Cloud Infrastructure (OCI)
-
-# Hasil Praktikum
-
-Berikut ini adalah dokumentasi praktikum Object Storage.
-
----
-## Praktikum 
 ### Langkah 1
 Lakukan koneksi ke instance menggunakan putty seperti praktikum sebelumnya lalu masuk/connect ke dalam DBSystem
 setelah connect maka lakukan pembuatan database terlebih dahulu.
