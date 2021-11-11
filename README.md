@@ -1,5 +1,7 @@
 # Komputasi Awan
 
+# Wellcome to my repositories! PLAGIARISME itu ga keren BUNDAH!!!
+
 |  |  |
 |--|--|
 | Dosen Pengampu | [Habibie Ed Dien, S.Kom., M.T.](https://github.com/hbb-polinema) |
